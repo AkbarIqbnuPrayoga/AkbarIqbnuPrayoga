@@ -116,7 +116,7 @@
           <img src="https://cdn.odzre.my.id/jrw.png" width="100%" alt="solevault"/>
         </a>
         <p>
-          <strong>SOLEVAULT</strong> - Sebuah website penjualan sepatu dengan desain minimalis dengan lebih banyak pilihan sepatu dan fitur yang lengkap.
+          <strong>SOLEVAULT</strong> - Sebuah website penjualan sepatu dengan desain minimalis dengan lebih banyak pilihan sepatu.
         </p>
         <p>
           <a href="https://sollevault.vercel.app">
@@ -134,7 +134,7 @@
           <img src="https://cdn.odzre.my.id/4x1.png" width="100%" alt="terminal"/>
         </a>
         <p>
-          <strong>TERMINAL</strong> - Sebuah website dengan tampilan terminalyang digunakan untuk melihat informasi terkait blockchainseperti harga bitcoin, ethereum dan lainnya.
+          <strong>TERMINAL</strong> - Sebuah website dengan tampilan terminalyang digunakan untuk melihat informasi terkait blockchain.
         </p>
         <p>
           <a href="https://nexctterminal.vercel.app">
