@@ -50,10 +50,10 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.sankavolereii.my.id/Pacman.gif" alt="Pacman Game">
 </div>
-<br>
+<br> -->
 <div align="center">
   
   <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge) -->
