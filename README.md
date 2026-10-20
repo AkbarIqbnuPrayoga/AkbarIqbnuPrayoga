@@ -94,16 +94,16 @@
 <table>
 <tr>
     <td width="50%">
-      <h3 align="center">NEXCT-Image2Prompt</h3>
+      <h3 align="center">SOLEFORM</h3>
       <div align="center">
-        <a href="https://nexct-image2prompt.vercel.app" target="_blank">
-          <img src="img/image3.png" width="100%" alt="image2prompt"/>
+        <a href="https://solefform.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/add.png" width="100%" alt="Soleform"/>
         </a>
         <p>
-          <strong>NEXCT-Image2Prompt</strong> - Sebuah website untuk membuat gambar menjadi sebuah teks prompt untuk digunakan kembali.
+          <strong>SOLEFORM</strong> - Sebuah website penjualan sepatu dengan desain minimalis dan interaktif.
         </p>
         <p>
-          <a href="https://nexct-image2prompt.vercel.app">
+          <a href="https://solefform.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
