@@ -56,7 +56,7 @@
 <br>
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge)
+  <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge) -->
   [![Years Badge](https://badges.pufler.dev/years/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
   [![Repos Badge](https://badges.pufler.dev/repos/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
