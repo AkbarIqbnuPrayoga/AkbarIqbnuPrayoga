@@ -162,13 +162,13 @@
 </tr>
  <tr>
     <td width="50%">
-      <h3 align="center">TillJannah</h3>
+      <h3 align="center">TILLJANNAH</h3>
       <div align="center">
         <a href="https://tillljannah.vercel.app" target="_blank">
           <img src="https://cdn.odzre.my.id/he6.png" width="100%" alt="tilljannah"/>
         </a>
         <p>
-          <strong>TillJannah</strong> - Sebuah website untuk membaca al-quran secara online dengan tampilan modern dan responsif.
+          <strong>TILLJANNAH</strong> - Sebuah website untuk membaca al-quran secara online dengan tampilan modern dan responsif.
         </p>
         <p>
           <a href="https://tillljannah.vercel.app">
