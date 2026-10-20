@@ -110,16 +110,16 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">NEXCT-Music Hub</h3>
+      <h3 align="center">SOLEVAULT</h3>
       <div align="center">
-        <a href="https://nexct-music.vercel.app" target="_blank">
-          <img src="img/image.png" width="100%" alt="Rakha Bikes"/>
+        <a href="https://sollevault.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/jrw.png" width="100%" alt="solevault"/>
         </a>
         <p>
-          <strong>NEXCT-Music Hub</strong> - Sebuah website untuk mendengarkan lagu dengan menggunakan interface yang mirip dengan spotify.
+          <strong>SOLEVAULT</strong> - Sebuah website penjualan sepatu dengan desain minimalis dengan lebih banyak pilihan sepatu dan fitur yang lengkap.
         </p>
         <p>
-          <a href="https://nexct-music.vercel.app">
+          <a href="https://sollevault.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -128,39 +128,39 @@
 </tr>
 <tr>
     <td width="50%">
-      <h3 align="center">NEXCT-ShortLink</h3>
+      <h3 align="center">TERMINAL</h3>
       <div align="center">
-        <a href="https://nexct-shortlink.vercel.app" target="_blank">
-          <img src="img/image2.png" width="100%" alt="Rakha Coffee"/>
+        <a href="https://nexctterminal.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/4x1.png" width="100%" alt="terminal"/>
         </a>
         <p>
-          <strong>NEXCT-ShortLink</strong> - Sebuah website yang digunakan untuk mengubah link panjang menjadi link yang pendek untuk dibagikan.
+          <strong>TERMINAL</strong> - Sebuah website dengan tampilan terminalyang digunakan untuk melihat informasi terkait blockchainseperti harga bitcoin, ethereum dan lainnya.
         </p>
         <p>
-          <a href="https://nexct-shortlink.vercel.app">
+          <a href="https://nexctterminal.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">NEXCT-SpotifyDL</h3>
+      <h3 align="center">MUSICLAYS</h3>
       <div align="center">
-        <a href="https://nexct-spotifydl.vercel.app/" target="_blank">
-          <img src="img/image4.png" width="100%" alt="Rakha Shoes"/>
+        <a href="https://musiclays.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/eax.png" width="100%" alt="musiclays"/>
         </a>
         <p>
-          <strong>NEXCT-SpotifyDL</strong> - Sebuah Web downloader sederhana untuk mengunduh lagu Spotify dengan tampilan modern dan mudah digunakan.
+          <strong>MUSICLAYS</strong> - Sebuah website platform yang digunakan untuk mendengarkan musik dengan tampilan mirip seperti spotify.
         </p>
         <p>
-          <a href="https://nexct-spotifydl.vercel.app/">
+          <a href="https://musiclays.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
 </tr>
-<tr>
+<!-- <tr>
     <td width="50%">
       <h3 align="center">NEXCT-DramaBox</h3>
       <div align="center">
@@ -295,7 +295,7 @@
         </p>
       </div>
     </td>
-</tr>
+</tr> -->
 </table>
 
 ---
