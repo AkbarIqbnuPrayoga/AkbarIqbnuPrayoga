@@ -307,8 +307,8 @@
       "Kutuliskan ribuan commit berisi harapan indah tentang kita. Namun apalah artinya sebuah commit, 
       jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
       
-      20:24:00 | feat: menambahkan rasa sayang ke dalam hati
-      21:00:00 | fix: menghapus rasa sayang karena beda branch
+      20:24:00 | feat: Aku menambahkan rasa sayang ke dalam hati
+      21:00:00 | fix: Dia menghapus rasa sayang karena beda branch
 
 ---
 
