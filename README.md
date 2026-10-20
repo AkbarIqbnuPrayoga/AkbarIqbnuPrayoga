@@ -160,41 +160,41 @@
       </div>
     </td>
 </tr>
-<!-- <tr>
+ <tr>
     <td width="50%">
-      <h3 align="center">NEXCT-DramaBox</h3>
+      <h3 align="center">TillJannah</h3>
       <div align="center">
-        <a href="https://nexct-dramabox.vercel.app" target="_blank">
-          <img src="img/image5.png" width="100%" alt="Personal Web"/>
+        <a href="https://tillljannah.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/he6.png" width="100%" alt="tilljannah"/>
         </a>
         <p>
-          <strong>NEXCT-DramaBox</strong> - Sebuah Web streaming drama sederhana untuk menonton berbagai video drama secara online dengan tampilan modern dan responsif.
+          <strong>TillJannah</strong> - Sebuah website untuk membaca al-quran secara online dengan tampilan modern dan responsif.
         </p>
         <p>
-          <a href="https://nexct-dramabox.vercel.app/">
+          <a href="https://tillljannah.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">NEXCT-TiktokDL</h3>
+      <h3 align="center">LAYSBOOTH</h3>
       <div align="center">
-        <a href="https://nexct-tiktokdl.vercel.app/" target="_blank">
-          <img src="img/image6.png" width="100%" alt="Calculator App"/>
+        <a href="https://laysbooth.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/ms5.png" width="100%" alt="laysbooth"/>
         </a>
         <p>
-          <strong>NEXCT-TiktokDL</strong> - Sebuah Web downloader sederhana untuk mengunduh audio, video, dan foto dari link TikTok.
+          <strong>LAYSBOOTH</strong> - Sebuah website untuk mengabadikan foto mu dengan layout seperti foto booth.
         </p>
         <p>
-          <a href="https://nexct-tiktokdl.vercel.app/">
+          <a href="https://laysbooth.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
 </tr>
-<tr>
+<!-- <tr>
     <td width="50%">
       <h3 align="center">NEXCT-Nime</h3>
       <div align="center">
@@ -303,6 +303,7 @@
 ### 🌐 Quotes
 
     ```bash
+    
       "Kutuliskan ribuan commit berisi harapan indah tentang kita. Namun apalah artinya sebuah commit, 
       jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
       
