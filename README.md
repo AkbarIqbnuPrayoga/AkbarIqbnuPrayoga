@@ -303,26 +303,11 @@
 ### 🌐 Quotes
 
     ```bash
-    $ git log --grep="cinta"
-
-    commit 8f2a3d1e5b7c9f0a2d4e6b8a0c2e4g6i8k0m2o4
-    Author: aku <aku@email.com>
-    Date:   Mon Feb 16 20:24:00 2026 +0700
-
-        feat: menambahkan rasa sayang ke dalam hati
-
-    commit 9g3b4e2f6c8d0a1b3e5f7g9h1i3j5l7n9p1r3t
-    Author: dia <dia@email.com>
-    Date:   Mon Feb 16 20:25:00 2026 +0700
-
-        fix: menghapus harapan karena beda branch
-
-    $ git merge dia
-    error: branch 'dia' and 'aku' have divergent histories
-    fatal: refusing to merge unrelated histories
-
-    # Mungkin memang harus force push
-    # Tapi takut kehilangan data aku dari dia
+      "Kutuliskan ribuan commit berisi harapan indah tentang kita. Namun apalah artinya sebuah commit, 
+      jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
+      
+      20:24:00 | feat: menambahkan rasa sayang ke dalam hati
+      21:00:00 | fix: menghapus harapan karena beda branch
 
 ---
 
