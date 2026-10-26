@@ -28,7 +28,7 @@
 
 <h3 align="center">Dont Forget to Follow my Sosial Media</h3>
 <p align="center">
-  <a href="https://nexct.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://akbarfolio.vercel.app" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/akbariqbnu/">
@@ -50,76 +50,76 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.sankavolereii.my.id/Pacman.gif" alt="Pacman Game">
 </div>
-<br>
+<br> -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge)
+  <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge) -->
   [![Years Badge](https://badges.pufler.dev/years/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
   [![Repos Badge](https://badges.pufler.dev/repos/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
   
 </div>
 
----
+<!-- --- -->
 
-## 📊 Most Used Languages
+<!-- ## 📊 Most Used Languages -->
 
-<div align="center">
+<!-- <div align="center"> -->
   
   <!-- Top Languages Card -->
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarIqbnuPrayoga&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <!-- <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarIqbnuPrayoga&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> -->
   
   <!-- Streak Stats -->
   <!-- <p>
     <img src="https://streak-stats.demolab.com?user=AkbarIqbnuPrayoga&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=45%2C0A2C4A%2C1A1B27" alt="GitHub Streak"/>
   </p> -->
   
-</div>
+<!-- </div> -->
 
 ---
-
+<!-- 
 ### 🐍 Contribution Project
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
----
+--- -->
 
 ### 🚀 Projects
 
 <table>
 <tr>
     <td width="50%">
-      <h3 align="center">NEXCT-Image2Prompt</h3>
+      <h3 align="center">SOLEFORM</h3>
       <div align="center">
-        <a href="https://nexct-image2prompt.vercel.app" target="_blank">
-          <img src="img/image3.png" width="100%" alt="image2prompt"/>
+        <a href="https://solefform.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/add.png" width="100%" alt="Soleform"/>
         </a>
         <p>
-          <strong>NEXCT-Image2Prompt</strong> - Sebuah website untuk membuat gambar menjadi sebuah teks prompt untuk digunakan kembali.
+          <strong>SOLEFORM</strong> - Sebuah website penjualan sepatu dengan desain minimalis dan interaktif.
         </p>
         <p>
-          <a href="https://nexct-image2prompt.vercel.app">
+          <a href="https://solefform.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">NEXCT-Music Hub</h3>
+      <h3 align="center">SOLEVAULT</h3>
       <div align="center">
-        <a href="https://nexct-music.vercel.app" target="_blank">
-          <img src="img/image.png" width="100%" alt="Rakha Bikes"/>
+        <a href="https://sollevault.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/jrw.png" width="100%" alt="solevault"/>
         </a>
         <p>
-          <strong>NEXCT-Music Hub</strong> - Sebuah website untuk mendengarkan lagu dengan menggunakan interface yang mirip dengan spotify.
+          <strong>SOLEVAULT</strong> - Sebuah website penjualan sepatu dengan desain minimalis dengan lebih banyak pilihan sepatu.
         </p>
         <p>
-          <a href="https://nexct-music.vercel.app">
+          <a href="https://sollevault.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -128,73 +128,73 @@
 </tr>
 <tr>
     <td width="50%">
-      <h3 align="center">NEXCT-ShortLink</h3>
+      <h3 align="center">TERMINAL</h3>
       <div align="center">
-        <a href="https://nexct-shortlink.vercel.app" target="_blank">
-          <img src="img/image2.png" width="100%" alt="Rakha Coffee"/>
+        <a href="https://nexctterminal.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/4x1.png" width="100%" alt="terminal"/>
         </a>
         <p>
-          <strong>NEXCT-ShortLink</strong> - Sebuah website yang digunakan untuk mengubah link panjang menjadi link yang pendek untuk dibagikan.
+          <strong>TERMINAL</strong> - Sebuah website dengan tampilan terminalyang digunakan untuk melihat informasi terkait blockchain.
         </p>
         <p>
-          <a href="https://nexct-shortlink.vercel.app">
+          <a href="https://nexctterminal.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">NEXCT-SpotifyDL</h3>
+      <h3 align="center">MUSICLAYS</h3>
       <div align="center">
-        <a href="https://nexct-spotifydl.vercel.app/" target="_blank">
-          <img src="img/image4.png" width="100%" alt="Rakha Shoes"/>
+        <a href="https://musiclays.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/eax.png" width="100%" alt="musiclays"/>
         </a>
         <p>
-          <strong>NEXCT-SpotifyDL</strong> - Sebuah Web downloader sederhana untuk mengunduh lagu Spotify dengan tampilan modern dan mudah digunakan.
+          <strong>MUSICLAYS</strong> - Sebuah website platform yang digunakan untuk mendengarkan musik dengan tampilan mirip seperti spotify.
         </p>
         <p>
-          <a href="https://nexct-spotifydl.vercel.app/">
+          <a href="https://musiclays.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
 </tr>
-<tr>
+ <tr>
     <td width="50%">
-      <h3 align="center">NEXCT-DramaBox</h3>
+      <h3 align="center">TILLJANNAH</h3>
       <div align="center">
-        <a href="https://nexct-dramabox.vercel.app" target="_blank">
-          <img src="img/image5.png" width="100%" alt="Personal Web"/>
+        <a href="https://tillljannah.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/he6.png" width="100%" alt="tilljannah"/>
         </a>
         <p>
-          <strong>NEXCT-DramaBox</strong> - Sebuah Web streaming drama sederhana untuk menonton berbagai video drama secara online dengan tampilan modern dan responsif.
+          <strong>TILLJANNAH</strong> - Sebuah website untuk membaca al-quran secara online dengan tampilan modern dan responsif.
         </p>
         <p>
-          <a href="https://nexct-dramabox.vercel.app/">
+          <a href="https://tillljannah.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">NEXCT-TiktokDL</h3>
+      <h3 align="center">LAYSBOOTH</h3>
       <div align="center">
-        <a href="https://nexct-tiktokdl.vercel.app/" target="_blank">
-          <img src="img/image6.png" width="100%" alt="Calculator App"/>
+        <a href="https://laysbooth.vercel.app" target="_blank">
+          <img src="https://cdn.odzre.my.id/ms5.png" width="100%" alt="laysbooth"/>
         </a>
         <p>
-          <strong>NEXCT-TiktokDL</strong> - Sebuah Web downloader sederhana untuk mengunduh audio, video, dan foto dari link TikTok.
+          <strong>LAYSBOOTH</strong> - Sebuah website untuk mengabadikan foto mu dengan layout seperti foto booth.
         </p>
         <p>
-          <a href="https://nexct-tiktokdl.vercel.app/">
+          <a href="https://laysbooth.vercel.app">
             <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
     </td>
 </tr>
-<tr>
+<!-- <tr>
     <td width="50%">
       <h3 align="center">NEXCT-Nime</h3>
       <div align="center">
@@ -295,7 +295,7 @@
         </p>
       </div>
     </td>
-</tr>
+</tr> -->
 </table>
 
 ---
@@ -303,26 +303,12 @@
 ### 🌐 Quotes
 
     ```bash
-    $ git log --grep="cinta"
-
-    commit 8f2a3d1e5b7c9f0a2d4e6b8a0c2e4g6i8k0m2o4
-    Author: aku <aku@email.com>
-    Date:   Mon Feb 16 20:24:00 2026 +0700
-
-        feat: menambahkan rasa sayang ke dalam hati
-
-    commit 9g3b4e2f6c8d0a1b3e5f7g9h1i3j5l7n9p1r3t
-    Author: dia <dia@email.com>
-    Date:   Mon Feb 16 20:25:00 2026 +0700
-
-        fix: menghapus harapan karena beda branch
-
-    $ git merge dia
-    error: branch 'dia' and 'aku' have divergent histories
-    fatal: refusing to merge unrelated histories
-
-    # Mungkin memang harus force push
-    # Tapi takut kehilangan data aku dari dia
+    
+      "Kutuliskan ribuan commit berisi harapan indah tentang kita. Namun apalah artinya sebuah commit, 
+      jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
+      
+      20:24:00 | feat: Aku menambahkan rasa sayang ke dalam hati
+      21:00:00 | fix: Dia menghapus rasa sayang karena beda branch
 
 ---
 
