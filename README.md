@@ -194,6 +194,41 @@
       </div>
     </td>
 </tr>
+<tr>
+  <td width="50%">
+    <h3 align="center">MONITORING</h3>
+    <div align="center">
+      <a href="https://nexct-monitoring.vercel.app/" target="_blank">
+        <img src="https://cdn.odzre.my.id/1lt.png" width="100%" alt="Monitoring"/>
+      </a>
+      <p>
+        <strong>MONITORING</strong> - Sebuah website monitoring dengan tampilan dashboard modern untuk memantau informasi secara terpusat.
+      </p>
+      <p>
+        <a href="https://nexct-monitoring.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
+        </a>
+      </p>
+    </div>
+  </td>
+
+  <td width="50%">
+    <h3 align="center">UYNOVEL</h3>
+    <div align="center">
+      <a href="https://uynovel.vercel.app/" target="_blank">
+        <img src="https://cdn.odzre.my.id/p0v.png" width="100%" alt="UYNovel"/>
+      </a>
+      <p>
+        <strong>UYNOVEL</strong> - Sebuah website untuk mencari dan membaca webtoon populer.
+      </p>
+      <p>
+        <a href="https://uynovel.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
+        </a>
+      </p>
+    </div>
+  </td>
+</tr>
 <!-- <tr>
     <td width="50%">
       <h3 align="center">NEXCT-Nime</h3>
