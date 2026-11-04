@@ -100,7 +100,7 @@
           <img src="https://cdn.odzre.my.id/add.png" width="100%" alt="Soleform"/>
         </a>
         <p>
-          <strong>SOLEFORM</strong> - Sebuah website penjualan sepatu dengan desain minimalis dan interaktif.
+          <strong>SOLEFORM</strong> - Sebuah website penjualan sepatu dengan desain interaktif dan minimalis.
         </p>
         <p>
           <a href="https://solefform.vercel.app">
