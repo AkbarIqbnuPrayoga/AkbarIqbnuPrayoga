@@ -150,7 +150,7 @@
           <img src="https://cdn.odzre.my.id/eax.png" width="100%" alt="musiclays"/>
         </a>
         <p>
-          <strong>MUSICLAYS</strong> - Sebuah website platform yang digunakan untuk mendengarkan musik dengan tampilan mirip seperti spotify.
+          <strong>MUSICLAYS</strong> - Sebuah website platform yang digunakan untuk mendengarkan musik dengan tampilan mirip seperti Spotify.
         </p>
         <p>
           <a href="https://musiclays.vercel.app">
