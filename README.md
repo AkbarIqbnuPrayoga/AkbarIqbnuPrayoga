@@ -168,7 +168,7 @@
           <img src="https://cdn.odzre.my.id/he6.png" width="100%" alt="tilljannah"/>
         </a>
         <p>
-          <strong>TILLJANNAH</strong> - Sebuah website untuk membaca al-quran secara online dengan tampilan modern dan responsif.
+          <strong>TILLJANNAH</strong> - Sebuah website untuk membaca Al-Qur'an secara online dengan tampilan modern dan responsif.
         </p>
         <p>
           <a href="https://tillljannah.vercel.app">
