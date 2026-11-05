@@ -134,7 +134,7 @@
           <img src="https://cdn.odzre.my.id/4x1.png" width="100%" alt="terminal"/>
         </a>
         <p>
-          <strong>TERMINAL</strong> - Sebuah website dengan tampilan terminalyang digunakan untuk melihat informasi terkait blockchain.
+          <strong>TERMINAL</strong> - Sebuah website dengan tampilan terminal yang digunakan untuk melihat informasi terkait blockchain.
         </p>
         <p>
           <a href="https://nexctterminal.vercel.app">
