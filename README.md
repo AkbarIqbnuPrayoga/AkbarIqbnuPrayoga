@@ -31,13 +31,13 @@
   <a href="https://akbarfolio.vercel.app" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/akbariqbnu/">
+  <a href="https://www.instagram.com/akbariqbnu/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@4kb444r">
+  <a href="https://www.tiktok.com/@4kb444r" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/942692205053755412">
+  <a href="https://discord.com/users/942692205053755412" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
