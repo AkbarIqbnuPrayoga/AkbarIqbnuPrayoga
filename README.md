@@ -184,7 +184,7 @@
           <img src="https://cdn.odzre.my.id/ms5.png" width="100%" alt="laysbooth"/>
         </a>
         <p>
-          <strong>LAYSBOOTH</strong> - Sebuah website untuk mengabadikan foto mu dengan layout seperti foto booth.
+          <strong>LAYSBOOTH</strong> - Sebuah website untuk mengabadikan fotomu dengan layout seperti photobooth.
         </p>
         <p>
           <a href="https://laysbooth.vercel.app">
