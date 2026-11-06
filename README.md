@@ -104,7 +104,7 @@
         </p>
         <p>
           <a href="https://solefform.vercel.app">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -120,7 +120,7 @@
         </p>
         <p>
           <a href="https://sollevault.vercel.app">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -138,7 +138,7 @@
         </p>
         <p>
           <a href="https://nexctterminal.vercel.app">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -154,7 +154,7 @@
         </p>
         <p>
           <a href="https://musiclays.vercel.app">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -172,7 +172,7 @@
         </p>
         <p>
           <a href="https://tillljannah.vercel.app">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -188,7 +188,7 @@
         </p>
         <p>
           <a href="https://laysbooth.vercel.app">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -241,7 +241,7 @@
         </p>
         <p>
           <a href="https://nexctnime.vercel.app/">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -257,7 +257,7 @@
         </p>
         <p>
           <a href="https://nexct-lyrics.vercel.app/">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -275,7 +275,7 @@
         </p>
         <p>
           <a href="https://nexct-forum.vercel.app/">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -291,7 +291,7 @@
         </p>
         <p>
           <a href="https://nexct-captureweb.vercel.app/">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -309,7 +309,7 @@
         </p>
         <p>
           <a href="https://nexct-ytdl.vercel.app/">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
@@ -325,7 +325,7 @@
         </p>
         <p>
           <a href="https://nexctwebclone.vercel.app/">
-            <img src="https://img.shields.io/badge/Live Demo-🚀-blue?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
       </div>
