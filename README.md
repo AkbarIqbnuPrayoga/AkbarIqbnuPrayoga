@@ -103,7 +103,7 @@
           <strong>SOLEFORM</strong> - Sebuah website penjualan sepatu dengan desain minimalis dan interaktif.
         </p>
         <p>
-          <a href="https://solefform.vercel.app">
+          <a href="https://solefform.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -119,7 +119,7 @@
           <strong>SOLEVAULT</strong> - Sebuah website penjualan sepatu dengan desain minimalis dengan lebih banyak pilihan sepatu.
         </p>
         <p>
-          <a href="https://sollevault.vercel.app">
+          <a href="https://sollevault.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -137,7 +137,7 @@
           <strong>TERMINAL</strong> - Sebuah website dengan tampilan terminal yang digunakan untuk melihat informasi terkait blockchain.
         </p>
         <p>
-          <a href="https://nexctterminal.vercel.app">
+          <a href="https://nexctterminal.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -153,7 +153,7 @@
           <strong>MUSICLAYS</strong> - Sebuah website platform yang digunakan untuk mendengarkan musik dengan tampilan mirip seperti Spotify. 
         </p>
         <p>
-          <a href="https://musiclays.vercel.app">
+          <a href="https://musiclays.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -171,7 +171,7 @@
           <strong>TILLJANNAH</strong> - Sebuah website untuk membaca Al-Qur'an secara online dengan tampilan modern dan responsif.
         </p>
         <p>
-          <a href="https://tillljannah.vercel.app">
+          <a href="https://tillljannah.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
@@ -187,7 +187,7 @@
           <strong>LAYSBOOTH</strong> - Sebuah website untuk mengabadikan fotomu dengan layout seperti photobooth.
         </p>
         <p>
-          <a href="https://laysbooth.vercel.app">
+          <a href="https://laysbooth.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge"/>
           </a>
         </p>
