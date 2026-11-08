@@ -22,14 +22,14 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,pandas,numpy,sklearn,linux,git,github,vscode&perline=6" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,pandas,numpy,sklearn,linux,git,github,vscode&perline=6" alt="Skill Icons" />
     </a>
 </p>
 
 <h3 align="center">Don't Forget to Follow my Social Media</h3>
 <p align="center">
   <a href="https://akbarfolio.vercel.app" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.instagram.com/akbariqbnu/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -350,7 +350,7 @@ jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
 ### 🚀 Thanks For Visiting
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/U1PUyE08jtUAAAAd/firefly.gif"/>
+  <img src="https://media1.tenor.com/m/U1PUyE08jtUAAAAd/firefly.gif" alt="Firefly GIF" />
 </p>
 
 <div align="center">
