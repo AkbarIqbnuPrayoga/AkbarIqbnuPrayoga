@@ -96,14 +96,14 @@
     <td width="50%">
       <h3 align="center">SOLEFORM</h3>
       <div align="center">
-        <a href="https://solefform.vercel.app" target="_blank">
+        <a href="https://solefform.vercel.app" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.odzre.my.id/add.png" width="100%" alt="Soleform"/>
         </a>
         <p>
           <strong>SOLEFORM</strong> - Sebuah website penjualan sepatu dengan desain minimalis dan interaktif.
         </p>
         <p>
-          <a href="https://solefform.vercel.app" target="_blank">
+          <a href="https://solefform.vercel.app" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
           </a>
         </p>
@@ -112,14 +112,14 @@
     <td width="50%">
       <h3 align="center">SOLEVAULT</h3>
       <div align="center">
-        <a href="https://sollevault.vercel.app" target="_blank">
+        <a href="https://sollevault.vercel.app" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.odzre.my.id/jrw.png" width="100%" alt="solevault"/>
         </a>
         <p>
           <strong>SOLEVAULT</strong> - Sebuah website penjualan sepatu dengan desain minimalis dengan lebih banyak pilihan sepatu.
         </p>
         <p>
-          <a href="https://sollevault.vercel.app" target="_blank">
+          <a href="https://sollevault.vercel.app" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
           </a>
         </p>
@@ -130,14 +130,14 @@
     <td width="50%">
       <h3 align="center">TERMINAL</h3>
       <div align="center">
-        <a href="https://nexctterminal.vercel.app" target="_blank">
+        <a href="https://nexctterminal.vercel.app" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.odzre.my.id/4x1.png" width="100%" alt="terminal"/>
         </a>
         <p>
           <strong>TERMINAL</strong> - Sebuah website dengan tampilan terminal yang digunakan untuk melihat informasi terkait blockchain.
         </p>
         <p>
-          <a href="https://nexctterminal.vercel.app" target="_blank">
+          <a href="https://nexctterminal.vercel.app" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
           </a>
         </p>
@@ -146,14 +146,14 @@
     <td width="50%">
       <h3 align="center">MUSICLAYS</h3>
       <div align="center">
-        <a href="https://musiclays.vercel.app" target="_blank">
+        <a href="https://musiclays.vercel.app" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.odzre.my.id/eax.png" width="100%" alt="musiclays"/>
         </a>
         <p>
           <strong>MUSICLAYS</strong> - Sebuah website platform yang digunakan untuk mendengarkan musik dengan tampilan mirip seperti Spotify.
         </p>
         <p>
-          <a href="https://musiclays.vercel.app" target="_blank">
+          <a href="https://musiclays.vercel.app" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
           </a>
         </p>
@@ -164,14 +164,14 @@
     <td width="50%">
       <h3 align="center">TILLJANNAH</h3>
       <div align="center">
-        <a href="https://tillljannah.vercel.app" target="_blank">
+        <a href="https://tillljannah.vercel.app" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.odzre.my.id/he6.png" width="100%" alt="tilljannah"/>
         </a>
         <p>
           <strong>TILLJANNAH</strong> - Sebuah website untuk membaca Al-Qur'an secara online dengan tampilan modern dan responsif.
         </p>
         <p>
-          <a href="https://tillljannah.vercel.app" target="_blank">
+          <a href="https://tillljannah.vercel.app" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
           </a>
         </p>
@@ -180,14 +180,14 @@
     <td width="50%">
       <h3 align="center">LAYSBOOTH</h3>
       <div align="center">
-        <a href="https://laysbooth.vercel.app" target="_blank">
+        <a href="https://laysbooth.vercel.app" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.odzre.my.id/ms5.png" width="100%" alt="laysbooth"/>
         </a>
         <p>
           <strong>LAYSBOOTH</strong> - Sebuah website untuk mengabadikan fotomu dengan layout seperti photobooth.
         </p>
         <p>
-          <a href="https://laysbooth.vercel.app" target="_blank">
+          <a href="https://laysbooth.vercel.app" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
           </a>
         </p>
@@ -198,14 +198,14 @@
   <td width="50%">
     <h3 align="center">MONITORING</h3>
     <div align="center">
-      <a href="https://nexct-monitoring.vercel.app/" target="_blank">
+      <a href="https://nexct-monitoring.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.odzre.my.id/1lt.png" width="100%" alt="Monitoring"/>
       </a>
       <p>
         <strong>MONITORING</strong> - Sebuah website monitoring dengan tampilan dashboard modern untuk memantau informasi secara terpusat.
       </p>
       <p>
-        <a href="https://nexct-monitoring.vercel.app/" target="_blank">
+        <a href="https://nexct-monitoring.vercel.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
         </a>
       </p>
@@ -215,14 +215,14 @@
   <td width="50%">
     <h3 align="center">UYNOVEL</h3>
     <div align="center">
-      <a href="https://uynovel.vercel.app/" target="_blank">
+      <a href="https://uynovel.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.odzre.my.id/p0v.png" width="100%" alt="UYNovel"/>
       </a>
       <p>
         <strong>UYNOVEL</strong> - Sebuah website untuk mencari dan membaca webtoon populer.
       </p>
       <p>
-        <a href="https://uynovel.vercel.app/" target="_blank">
+        <a href="https://uynovel.vercel.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
         </a>
       </p>
