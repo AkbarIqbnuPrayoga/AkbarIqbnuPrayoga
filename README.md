@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AkbarIqbnuPrayoga">
+  <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Akbar+Iqbnu+Prayoga;%F0%9F%8F%A0Welcome+To+My+Github+Repository" alt="Typing SVG" />
   </a>
 </p>
@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/AkbarIqbnuPrayoga">
+  <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Front+End+Developer;Data+Analyst;Machine+Learning;Web+Developer" alt="Typing SVG" />
   </a>
 </p>
@@ -354,7 +354,7 @@ jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
 </p>
 
 <div align="center">
-  <a href="https://github.com/AkbarIqbnuPrayoga">
+  <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
