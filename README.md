@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Akbar%20Iqbnu%20Prayoga&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer%20|%20Data%20Analyst%20|%20Web%20Developer%20|%20Machine%20Learning%20&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Akbar%20Iqbnu%20Prayoga&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer%20|%20Data%20Analyst%20|%20Web%20Developer%20|%20Machine%20Learning%20&descAlignY=55&descSize=15" alt="Header Banner" />
 </div>
 
 <p align="center">
@@ -370,6 +370,6 @@ jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer" alt="Footer Banner" />
 
 </div>
