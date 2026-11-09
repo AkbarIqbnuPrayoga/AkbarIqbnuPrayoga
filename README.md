@@ -21,7 +21,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,pandas,numpy,sklearn,linux,git,github,vscode&perline=6" alt="Skill Icons" />
     </a>
 </p>
