@@ -113,7 +113,7 @@
       <h3 align="center">SOLEVAULT</h3>
       <div align="center">
         <a href="https://sollevault.vercel.app" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.odzre.my.id/jrw.png" width="100%" alt="solevault"/>
+          <img src="https://cdn.odzre.my.id/jrw.png" width="100%" alt="Solevault"/>
         </a>
         <p>
           <strong>SOLEVAULT</strong> - Sebuah website penjualan sepatu dengan desain minimalis dengan lebih banyak pilihan sepatu.
@@ -131,7 +131,7 @@
       <h3 align="center">TERMINAL</h3>
       <div align="center">
         <a href="https://nexctterminal.vercel.app" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.odzre.my.id/4x1.png" width="100%" alt="terminal"/>
+          <img src="https://cdn.odzre.my.id/4x1.png" width="100%" alt="Terminal"/>
         </a>
         <p>
           <strong>TERMINAL</strong> - Sebuah website dengan tampilan terminal yang digunakan untuk melihat informasi terkait blockchain.
@@ -147,7 +147,7 @@
       <h3 align="center">MUSICLAYS</h3>
       <div align="center">
         <a href="https://musiclays.vercel.app" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.odzre.my.id/eax.png" width="100%" alt="musiclays"/>
+          <img src="https://cdn.odzre.my.id/eax.png" width="100%" alt="Musiclays"/>
         </a>
         <p>
           <strong>MUSICLAYS</strong> - Sebuah website untuk mendengarkan musik dengan tampilan mirip seperti Spotify.
@@ -160,12 +160,12 @@
       </div>
     </td>
 </tr>
- <tr>
+<tr>
     <td width="50%">
       <h3 align="center">TILLJANNAH</h3>
       <div align="center">
         <a href="https://tillljannah.vercel.app" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.odzre.my.id/he6.png" width="100%" alt="tilljannah"/>
+          <img src="https://cdn.odzre.my.id/he6.png" width="100%" alt="Tilljannah"/>
         </a>
         <p>
           <strong>TILLJANNAH</strong> - Sebuah website untuk membaca Al-Qur'an secara online dengan tampilan modern dan responsif.
@@ -181,7 +181,7 @@
       <h3 align="center">LAYSBOOTH</h3>
       <div align="center">
         <a href="https://laysbooth.vercel.app" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.odzre.my.id/ms5.png" width="100%" alt="laysbooth"/>
+          <img src="https://cdn.odzre.my.id/ms5.png" width="100%" alt="Laysbooth"/>
         </a>
         <p>
           <strong>LAYSBOOTH</strong> - Sebuah website untuk mengabadikan fotomu dengan layout seperti photobooth.
