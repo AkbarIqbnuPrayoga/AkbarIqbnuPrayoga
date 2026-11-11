@@ -219,7 +219,7 @@
         <img src="https://cdn.odzre.my.id/p0v.png" width="100%" alt="UYNovel"/>
       </a>
       <p>
-        <strong>UYNOVEL</strong> - Sebuah website untuk mencari dan membaca webtoon populer.
+        <strong>UYNOVEL</strong> - Sebuah website untuk mencari dan membaca webtoon populer secara online.
       </p>
       <p>
         <a href="https://uynovel.vercel.app/" target="_blank" rel="noopener noreferrer">
