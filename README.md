@@ -116,7 +116,7 @@
           <img src="https://cdn.odzre.my.id/jrw.png" width="100%" alt="Solevault"/>
         </a>
         <p>
-          <strong>SOLEVAULT</strong> - Sebuah website penjualan sepatu dengan desain minimalis dengan lebih banyak pilihan sepatu.
+          <strong>SOLEVAULT</strong> - Sebuah website penjualan sepatu dengan desain minimalis dan lebih banyak pilihan sepatu.
         </p>
         <p>
           <a href="https://sollevault.vercel.app" target="_blank" rel="noopener noreferrer">
