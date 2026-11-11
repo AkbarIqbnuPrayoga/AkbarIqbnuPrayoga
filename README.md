@@ -192,39 +192,38 @@
     </td>
 </tr>
 <tr>
-  <td width="50%">
-    <h3 align="center">MONITORING</h3>
-    <div align="center">
-      <a href="https://nexct-monitoring.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.odzre.my.id/1lt.png" width="100%" alt="Monitoring"/>
-      </a>
-      <p>
-        <strong>MONITORING</strong> - Sebuah website monitoring dengan tampilan dashboard modern untuk memantau informasi secara terpusat.
-      </p>
-      <p>
+    <td width="50%">
+      <h3 align="center">MONITORING</h3>
+      <div align="center">
         <a href="https://nexct-monitoring.vercel.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
+          <img src="https://cdn.odzre.my.id/1lt.png" width="100%" alt="Monitoring"/>
         </a>
-      </p>
-    </div>
-  </td>
-
-  <td width="50%">
-    <h3 align="center">UYNOVEL</h3>
-    <div align="center">
-      <a href="https://uynovel.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.odzre.my.id/p0v.png" width="100%" alt="UYNovel"/>
-      </a>
-      <p>
-        <strong>UYNOVEL</strong> - Sebuah website untuk mencari dan membaca webtoon populer secara online.
-      </p>
-      <p>
+        <p>
+          <strong>MONITORING</strong> - Sebuah website monitoring dengan tampilan dashboard modern untuk memantau informasi secara terpusat.
+        </p>
+        <p>
+          <a href="https://nexct-monitoring.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">UYNOVEL</h3>
+      <div align="center">
         <a href="https://uynovel.vercel.app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
+          <img src="https://cdn.odzre.my.id/p0v.png" width="100%" alt="UYNovel"/>
         </a>
-      </p>
-    </div>
-  </td>
+        <p>
+          <strong>UYNOVEL</strong> - Sebuah website untuk mencari dan membaca webtoon populer secara online.
+        </p>
+        <p>
+          <a href="https://uynovel.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
+          </a>
+        </p>
+      </div>
+    </td>
 </tr>
 <!-- <tr>
     <td width="50%">
@@ -359,9 +358,9 @@ jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
 ---
 
 <div align="center">
-<a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
-</a>
+  <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
   <p>© 2026 NEXCT. All rights reserved. | Akbar Iqbnu Prayoga | Developer NEXCT</p>
 </div>
 
