@@ -10,7 +10,6 @@
       width="250" 
       style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.3);" 
       alt="Honkai GIF" />
-
 </p>
 
 <p align="center">
@@ -55,12 +54,10 @@
 </div>
 <br> -->
 <div align="center">
-  
   <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge) -->
   [![Years Badge](https://badges.pufler.dev/years/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
   [![Repos Badge](https://badges.pufler.dev/repos/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
-  
 </div>
 
 <!-- --- -->
