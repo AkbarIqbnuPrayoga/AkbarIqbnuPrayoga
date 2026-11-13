@@ -53,12 +53,18 @@
   <img src="https://cdn.sankavolereii.my.id/Pacman.gif" alt="Pacman Game">
 </div>
 <br> -->
-<div align="center">
-  <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge) -->
-  [![Years Badge](https://badges.pufler.dev/years/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
-  [![Repos Badge](https://badges.pufler.dev/repos/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff)](https://github.com/AkbarIqbnuPrayoga)
-</div>
+<p align="center">
+  <!-- <img src="https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge" alt="Profile Views" /> -->
+  <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
+    <img src="https://badges.pufler.dev/years/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff" alt="Years Badge" />
+  </a>
+  <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
+    <img src="https://badges.pufler.dev/repos/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff" alt="Repos Badge" />
+  </a>
+  <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
+    <img src="https://badges.pufler.dev/commits/monthly/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff" alt="Commits Badge" />
+  </a>
+</p>
 
 <!-- --- -->
 
