@@ -371,7 +371,5 @@ jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer" alt="Footer Banner" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer" alt="Footer Banner" />
 </div>
