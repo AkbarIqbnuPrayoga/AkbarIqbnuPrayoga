@@ -61,9 +61,9 @@
   <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
     <img src="https://badges.pufler.dev/repos/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff" alt="Repos Badge" />
   </a>
-  <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
     <img src="https://badges.pufler.dev/commits/monthly/AkbarIqbnuPrayoga?style=for-the-badge&color=63a4ff" alt="Commits Badge" />
-  </a>
+  </a> -->
 </p>
 
 <!-- --- -->
