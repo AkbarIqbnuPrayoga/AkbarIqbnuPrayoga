@@ -25,7 +25,7 @@
     </a>
 </p>
 
-<h3 align="center">Don't Forget to Follow my Social Media</h3>
+<h3 align="center">Don't Forget to Follow My Social Media</h3>
 <p align="center">
   <a href="https://akbarfolio.vercel.app" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
