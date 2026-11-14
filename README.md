@@ -205,7 +205,7 @@
           <img src="https://cdn.odzre.my.id/1lt.png" width="100%" alt="Monitoring"/>
         </a>
         <p>
-          <strong>MONITORING</strong> - Sebuah website monitoring dengan tampilan dashboard modern untuk memantau informasi secara terpusat.
+          <strong>MONITORING</strong> - Sebuah platform dashboard modern untuk memantau informasi dan data secara terpusat.
         </p>
         <p>
           <a href="https://nexct-monitoring.vercel.app/" target="_blank" rel="noopener noreferrer">
