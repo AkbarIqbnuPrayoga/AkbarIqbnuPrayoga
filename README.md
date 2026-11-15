@@ -46,10 +46,6 @@
   </a>
 </p>
 
-<!-- <div align="center">
-  <img src="https://cdn.sankavolereii.my.id/Pacman.gif" alt="Pacman Game">
-</div>
-<br> -->
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=AkbarIqbnuPrayoga&color=63a4ff&style=for-the-badge" alt="Profile Views" /> -->
   <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
