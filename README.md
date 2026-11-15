@@ -59,8 +59,6 @@
   </a> -->
 </p>
 
-<!-- --- -->
-
 <!-- ## 📊 Most Used Languages -->
 
 <!-- <div align="center"> -->
