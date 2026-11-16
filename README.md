@@ -226,14 +226,14 @@
     <td width="50%">
       <h3 align="center">NEXCT-Nime</h3>
       <div align="center">
-        <a href="https://nexctnime.vercel.app/" target="_blank">
+        <a href="https://nexctnime.vercel.app/" target="_blank" rel="noopener noreferrer">
           <img src="img/image7.png" width="100%" alt="Coming Soon Page"/>
         </a>
         <p>
           <strong>NEXCT-Nime</strong> - Sebuah Web streaming anime dengan pilihan berbagai resolusi dan server untuk pengalaman menonton yang fleksibel dan responsif.
         </p>
         <p>
-          <a href="https://nexctnime.vercel.app/">
+          <a href="https://nexctnime.vercel.app/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
           </a>
         </p>
@@ -242,14 +242,14 @@
     <td width="50%">
       <h3 align="center">NEXCT-Lyrics</h3>
       <div align="center">
-        <a href="https://nexct-lyrics.vercel.app/" target="_blank">
+        <a href="https://nexct-lyrics.vercel.app/" target="_blank" rel="noopener noreferrer">
           <img src="img/image8.png" width="100%" alt="Login Page"/>
         </a>
         <p>
           <strong>NEXCT-Lyrics</strong> - Web aplikasi pencari dan penampil lirik lagu, dengan tampilan sederhana dan mudah digunakan.
         </p>
         <p>
-          <a href="https://nexct-lyrics.vercel.app/">
+          <a href="https://nexct-lyrics.vercel.app/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
           </a>
         </p>
@@ -260,14 +260,14 @@
     <td width="50%">
       <h3 align="center">NEXCT-Comments</h3>
       <div align="center">
-        <a href="https://nexct-forum.vercel.app/" target="_blank">
+        <a href="https://nexct-forum.vercel.app/" target="_blank" rel="noopener noreferrer">
           <img src="img/image9.png" width="100%" alt="Age Calculator"/>
         </a>
         <p>
           <strong>NEXCT-Comments</strong> - Sebuah Web forum sederhana dengan fitur komentar yang tersimpan di database secara real-time.
         </p>
         <p>
-          <a href="https://nexct-forum.vercel.app/">
+          <a href="https://nexct-forum.vercel.app/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge" alt="Live Demo"/>
           </a>
         </p>
