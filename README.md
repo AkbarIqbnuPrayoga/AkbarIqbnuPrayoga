@@ -346,11 +346,11 @@ jika dari awal kamu tak pernah berniat membuka pintu untuk sebuah merge."
   <img src="https://media1.tenor.com/m/U1PUyE08jtUAAAAd/firefly.gif" alt="Firefly GIF" />
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/AkbarIqbnuPrayoga" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Thanks for Visiting" />
   </a>
-</div>
+</p>
 
 ---
 
